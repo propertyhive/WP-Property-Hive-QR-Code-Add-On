@@ -88,7 +88,7 @@ final class PH_QR_Code {
 
     public function add_qr_code_meta_box( $meta_boxes )
     {
-        $meta_boxes[25] = array(
+        $meta_boxes[28] = array(
             'id' => 'propertyhive-property-qr-code',
             'title' => __( 'Property QR Code', 'propertyhive' ),
             'callback' => array( $this, 'output_meta_box' ),
