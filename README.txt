@@ -5,7 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N68UH
 Requires at least: 3.8
 Tested up to: 5.8.2
 Stable tag: trunk
-Version: 1.0.0
+Version: 1.0.1
 Homepage: http://wp-property-hive.com/addons/qr-code/
 
 This add on for Property Hive generates a QR code for properties
@@ -27,6 +27,9 @@ The manual installation method involves downloading the Property Hive Home Repor
 Updating should work like a charm; as always though, ensure you backup your site just in case.
 
 == Changelog ==
+
+= 1.0.1 =
+* Corrected overwriting of virtual tours meta box
 
 = 1.0.0 =
 * First working release of the add on

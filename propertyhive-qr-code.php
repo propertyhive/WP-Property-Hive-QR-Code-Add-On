@@ -3,7 +3,7 @@
  * Plugin Name: Property Hive QR Code Add On
  * Plugin Uri: http://wp-property-hive.com/addons/qr-code/
  * Description: Add On for Property Hive that generates a QR code for properties
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: PropertyHive
  * Author URI: http://wp-property-hive.com
  */
@@ -17,7 +17,7 @@ final class PH_QR_Code {
     /**
      * @var string
      */
-    public $version = '1.0.0';
+    public $version = '1.0.1';
 
     /**
      * @var Property Hive The single instance of the class
