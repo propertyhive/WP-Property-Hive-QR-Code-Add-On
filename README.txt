@@ -2,9 +2,9 @@
 Contributors: PropertyHive,BIOSTALL
 Tags: propertyhive, property hive, property, real estate, software, estate agents, estate agent, qr code
 Requires at least: 3.8
-Tested up to: 5.8.2
+Tested up to: 6.5.2
 Stable tag: trunk
-Version: 1.0.1
+Version: 1.0.2
 Homepage: https://wp-property-hive.com/addons/qr-code/
 
 This add on for Property Hive generates a QR code for properties
@@ -26,6 +26,10 @@ The manual installation method involves downloading the Property Hive Home Repor
 Updating should work like a charm; as always though, ensure you backup your site just in case.
 
 == Changelog ==
+
+= 1.0.2 =
+* Use different QR Code generation tool following Google Charts becoming deprecated
+* Declare compatibility for WordPress 6.5.2
 
 = 1.0.1 =
 * Corrected overwriting of virtual tours meta box
