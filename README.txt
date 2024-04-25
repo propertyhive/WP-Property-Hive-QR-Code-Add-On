@@ -5,7 +5,7 @@ Requires at least: 3.8
 Tested up to: 5.8.2
 Stable tag: trunk
 Version: 1.0.1
-Homepage: http://wp-property-hive.com/addons/qr-code/
+Homepage: https://wp-property-hive.com/addons/qr-code/
 
 This add on for Property Hive generates a QR code for properties
 

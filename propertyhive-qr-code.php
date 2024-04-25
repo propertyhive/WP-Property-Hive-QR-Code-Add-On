@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Property Hive QR Code Add On
- * Plugin Uri: http://wp-property-hive.com/addons/qr-code/
+ * Plugin Uri: https://wp-property-hive.com/addons/qr-code/
  * Description: Add On for Property Hive that generates a QR code for properties
  * Version: 1.0.1
  * Author: PropertyHive
- * Author URI: http://wp-property-hive.com
+ * Author URI: https://wp-property-hive.com
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly

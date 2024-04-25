@@ -28,7 +28,7 @@ class properthive_qr_code_update
 		// vars
 		$this->settings = array(
 			'version'	=>	'',
-			'remote'	=>	'http://wp-property-hive.com/add-on-store/propertyhive-qr-code-t35vju22/update-info.php',
+			'remote'	=>	'https://wp-property-hive.com/add-on-store/propertyhive-qr-code-t35vju22/update-info.php',
 			'basename'	=>	plugin_basename( str_replace('-update.php', '.php', __FILE__) ),
 			'slug'		=>	dirname( plugin_basename( str_replace('-update.php', '.php', __FILE__) ) )
 		);
