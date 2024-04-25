@@ -112,7 +112,7 @@ final class PH_QR_Code {
                 echo '<div class="media_grid" id="property_qr_code_grid"><ul>';
                 
                 echo '<li id="qr_code">';
-                    echo '<img src="https://chart.googleapis.com/chart?chs=' . $qr_code_width . 'x' . $qr_code_height . '&cht=qr&chl=' . get_permalink($post->ID) . '&choe=UTF-8" title="" style="margin:0; padding: 0; width: 100% !important;" />';
+                    echo '<img src="https://api.qrserver.com/v1/create-qr-code/?size=' . $qr_code_width . 'x' . $qr_code_height . '&data=' . urlencode(get_permalink($post->ID)) . '" title="" style="margin:0; padding: 0; width: 100% !important;" />';
                 echo '</li>';
                 
                 echo '</ul></div>';
